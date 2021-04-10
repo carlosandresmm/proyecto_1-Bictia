@@ -1,0 +1,20 @@
+.contenedor{
+    height: 80px;
+    background: rgba(139, 117, 117, 0.349);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+
+
+}
+
+.elemento{
+    width: 60px;
+}
+
+.contenedor-1{
+    height: 10px;
+    display: flex;
+    background: rgb(202, 245, 85);
+
+}

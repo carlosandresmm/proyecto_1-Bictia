@@ -1,0 +1,48 @@
+header{
+    background: rgb(19, 15, 15);
+    margin: 0px 
+}
+body{
+    background: rgb(240, 198, 198);
+}
+.imagen-encabezado{
+    height:300px ;
+    width: 400px;
+    margin: auto;
+    display: block;
+
+}
+/* caracteristicas titulo*/
+h1{
+    color: white;
+    font-size: 3em;
+    font-family: 'Dela Gothic One', cursive;
+    text-align: center;
+}
+
+/* subtitulo*/
+h2{
+    font-family: 'Dela Gothic One', cursive;
+}
+
+/*caracteristicas de los parrafos*/
+.marcas{
+    font-size: 2em;
+    color: goldenrod;
+}
+input{
+    font-size: 1em;
+}
+
+/*caracteristicas del pie de pagina*/
+.contacto{
+    background: black;
+    color: white;
+}
+.tc{
+    text-align: center;
+}
+.titulo1{
+    padding: 0 20px;
+
+}
